@@ -1,6 +1,1 @@
-{
-  "users": [
-    { "id": 101, "name": "sejox" },
-    { "id": 102, "name": "fiza" }
-  ]
-}
+{"users":[{"id":101,"name":"sejox"},{"id":102,"name":"fiza"},{"id":103,"name":"temp 1"},{"id":104,"name":"temp 2"},{"id":105,"name":"temp 3"},{"id":106,"name":"temp 3"}]}
