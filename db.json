@@ -1,1 +1,11 @@
-{"users":[{"id":101,"name":"sejox"},{"id":102,"name":"fiza"},{"id":103,"name":"temp 1"},{"id":104,"name":"temp 2"},{"id":105,"name":"temp 3"},{"id":106,"name":"temp 3"}]}
+{
+  "users": [
+    { "id": 101, "username": "sejox", "password": "sejox123" },
+    { "id": 102, "username": "fiza", "password": "fiza123" },
+    {
+      "id": 103,
+      "username": "jafar",
+      "password": "$2b$10$qCXUodGFH64Bc8najzWepOf9qcyYcJ.ls4SuwycSDqt2wCEGJ29gO"
+    }
+  ]
+}
